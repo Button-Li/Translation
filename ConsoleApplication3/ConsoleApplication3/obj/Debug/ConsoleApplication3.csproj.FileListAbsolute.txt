@@ -1,0 +1,7 @@
+D:\vs2016\workspace\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\vs2016\workspace\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\vs2016\workspace\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\vs2016\workspace\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\vs2016\workspace\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\vs2016\workspace\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\vs2016\workspace\ConsoleApplication3\ConsoleApplication3\bin\Debug\Newtonsoft.Json.dll
